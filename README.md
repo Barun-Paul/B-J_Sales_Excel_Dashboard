@@ -1,6 +1,6 @@
 # B&J Biscuit Sales Dashboard 📊
 
-## Overview
+## 🚀 Overview
 
 This project is an interactive Excel-based business dashboard developed for **B&J Biscuit**, aimed at providing data-driven insights into sales performance, customer behavior, profitability, and geographic revenue trends.
 
